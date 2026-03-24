@@ -424,12 +424,3 @@ scoreboard.setPenaltyWeight(
 ## 📄 Giấy Phép
 
 Dự án này được cung cấp cho mục đích giáo dục và kiểm tra.
-
----
-
-**Cập Nhật Lần Cuối**: 2026-03-24
-**Tiêu Chuẩn C++**: C++17
-**Yêu Cầu Trình Biên Dịch**: GCC 7+, Clang 5+, MSVC 2017+
-**Tổng Cộng Dòng Mã**: 3000+
-**Tài Liệu**: Toàn Diện
-
