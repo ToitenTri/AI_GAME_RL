@@ -1,6 +1,4 @@
-# Môi Trường Trò Chơi Thách Thức Thuật Toán AI - C++
-
-Một khung làm việc C++ toàn diện, chuyên nghiệp để kiểm tra và so sánh các Agent AI trên các thách thức thuật toán. Đây là một sân chơi kiểm tra nghiêm ngặt để đánh giá kỹ năng lập trình thuật toán và giải quyết vấn đề của Agent AI.
+# Môi Trường Trò Chơi Thách Thức Thuật Toán AI
 
 ## 🎮 Khái Niệm Trò Chơi
 
