@@ -1,6 +1,4 @@
-# AI Algorithmic Challenge Game Environment - C++
-
-A comprehensive, modular C++ framework for testing AI agents on algorithmic challenges. This game environment provides a structured testing ground for evaluating AI decision-making, optimization skills, and problem-solving abilities.
+# AI Algorithmic Challenge Game Environment 
 
 ## 🎮 Game Concept
 
