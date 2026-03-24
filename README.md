@@ -14,27 +14,27 @@ The game presents sequential algorithmic challenges where an AI agent must solve
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                   GAME ENGINE (Game.h)                   │
-│                                                          │
-│  ┌──────────────────┐  ┌──────────────────┐           │
-│  │   Challenges     │  │   AI Agents      │           │
-│  │  (Challenge.h)   │  │  (AIAgent.h)     │           │
-│  │                  │  │                  │           │
-│  │ • Pathfinding    │  │ • SimpleGreedy   │           │
-│  │ • Sorting        │  │ • Optimized      │           │
-│  │ • Resources      │  │ • Custom (user)  │           │
-│  └──────────────────┘  └──────────────────┘           │
-│         △                        △                      │
+│                   GAME ENGINE (Game.h)                  │
+│                                                         │
+│  ┌──────────────────┐  ┌──────────────────┐             │
+│  │   Challenges     │  │   AI Agents      │             │
+│  │  (Challenge.h)   │  │  (AIAgent.h)     │             │
+│  │                  │  │                  │             │
+│  │ • Pathfinding    │  │ • SimpleGreedy   │             │
+│  │ • Sorting        │  │ • Optimized      │             │
+│  │ • Resources      │  │ • Custom (user)  │             │
+│  └──────────────────┘  └──────────────────┘             │
+│         △                        △                     │
 │         └────────────┬───────────┘                      │
 │                      │                                  │
-│          ┌─────────────────────────┐                   │
-│          │  PENALTY SCOREBOARD     │                   │
-│          │ (PenaltyScoreboard.h)   │                   │
-│          │                         │                   │
-│          │ • Error Tracking        │                   │
-│          │ • Penalty Calculation   │                   │
-│          │ • Performance Metrics   │                   │
-│          └─────────────────────────┘                   │
+│          ┌─────────────────────────┐                    │ 
+│          │  PENALTY SCOREBOARD     │                    │
+│          │ (PenaltyScoreboard.h)   │                    │
+│          │                         │                    │
+│          │ • Error Tracking        │                    │
+│          │ • Penalty Calculation   │                    │
+│          │ • Performance Metrics   │                    │
+│          └─────────────────────────┘                    │
 └─────────────────────────────────────────────────────────┘
 ```
 
